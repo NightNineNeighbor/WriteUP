@@ -43,7 +43,7 @@ i can found it by ida
 
 so i supose stack structure
 
-
+<pre><code>
 +---------------+ bp - 2ch
 |               |
 |               |
@@ -59,7 +59,7 @@ so i supose stack structure
 +---------------+
 |     key       |
 +---------------+
-
+</code></pre>
 2ch = 44d
 
 i overflow
